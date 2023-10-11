@@ -12,5 +12,9 @@ public class main{
         System.out.println(new Date());
         System.out.println("somethong");
         System.out.println("added");
+
+
+        Student s=new Student();
+        s.sayhello();
     }
 }
